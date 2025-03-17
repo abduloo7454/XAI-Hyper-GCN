@@ -8,4 +8,4 @@ The datasets for common Multi Tasks and code for Hyper-CSP are available on [Git
 
 2. Create an environment using requirement.txt (All packages mentioned there)
 
-3. Then just the main.py
+3. Then just run the main.py
