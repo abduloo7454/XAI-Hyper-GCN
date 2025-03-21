@@ -20,11 +20,11 @@ HyperGCN empowers researchers to analyze individual brain regions and explore th
 
 ## Installation
 
-To install HyperGCN, you'll need Python 3.6+...
+ Create an environment using requirement.txt (All packages mentioned there)
 
 ## Usage
 
-Once the dependencies are installed...
+Once the dependencies are installed then, just run the main.py
 
 ## Model Architecture
 
@@ -34,13 +34,4 @@ HyperGCN utilizes Graph Convolutional Networks...
 The datasets for common Multi Tasks and code for Hyper-CSP are available on [Github](https://github.com/AliciaFalconCaro/HyperCSP).
 
 ## Results
-
-
-
-
---------------------------------------------------------------------------------------------
-1. Download the Datasets from the above links and save them in the Data folder
-
-2. Create an environment using requirement.txt (All packages mentioned there)
-
-3. Then just run the main.py
+Accuracy: 92.86%
